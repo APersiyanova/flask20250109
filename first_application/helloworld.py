@@ -1,1 +1,1 @@
-print('This line is a part of PyCharm branch creation training.')
+print('This line is a part of the PyCharm branch creation training.')
