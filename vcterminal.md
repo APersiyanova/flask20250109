@@ -52,3 +52,5 @@ git branch -D ветка
 git checkout master # Переключились на master.
 git merge homework  # Перенести все коммиты из homework в ветку master
 
+git rebase
+когда надо сохранить историю коммитов
