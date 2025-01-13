@@ -19,6 +19,7 @@ https://tproger.ru/translations/regular-expression-python
 from flask import Flask
 from random import choice
 import datetime
+import os
 
 app = Flask(__name__)
 
@@ -48,11 +49,11 @@ def futtime():
 
 @app.route('/get_random_word')
 def ranworld():
-    BASE_DIR = os.path.dirname(os.path.abspath(__file__)) 
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))   # абсолютный путь к папке проекта
     BOOK_FILE = os.path.join(BASE_DIR, 'war_and_peace.txt') 
     with open(BOOK_FILE) as book:
         contents = book.read()
-    words = contents.splitlines()
+    words = contents.split() # words = contents.splitlines()
     word = choice(words)
     return word
 
