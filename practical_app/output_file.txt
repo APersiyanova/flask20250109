@@ -1,0 +1,346 @@
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+_windowserver      154   7,1  0,9 414074864  72064   ??  Ss   чт11   52:18.39 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+anna               904   5,3  3,4 1597877152 286496   ??  S    чт11   11:13.84 /private/var/folders/n9/gpmtfssd3vd2cbc07pcbd7vm0000gn/T/AppTranslocation/EECD9C57-A845-4016-8981-67BF73F13A91/d/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) --type=renderer --user-data-dir=/Users/anna/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --app-path=/private/var/folders/n9/gpmtfssd3vd2cbc07pcbd7vm0000gn/T/AppTranslocation/EECD9C57-A845-4016-8981-67BF73F13A91/d/Visual Studio Code.app/Contents/Resources/app --enable-sandbox --enable-blink-features=HighlightAPI --first-renderer-process --lang=ru --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1737014936775123 --launch-time-ticks=395587050 --shared-files --field-trial-handle=1718379636,r,6693613040320329157,12316451048907813683,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --vscode-window-config=vscode:8a4c41ec-beb3-4e6b-9213-aac154988f63 --seatbelt-client=39
+anna               898   4,1  1,4 1588152896 120848   ??  S    чт11    5:44.13 /private/var/folders/n9/gpmtfssd3vd2cbc07pcbd7vm0000gn/T/AppTranslocation/EECD9C57-A845-4016-8981-67BF73F13A91/d/Visual Studio Code.app/Contents/MacOS/Electron
+anna              1093   3,3  6,8 418333376 571248   ??  S    чт11   26:18.96 /Applications/PyCharm CE.app/Contents/MacOS/pycharm
+root              8092   1,3  0,0 410199696   1520 s013  R+    9:11     0:00.00 ps aux
+anna               920   1,3  0,4 1587284176  36560   ??  S    чт11    2:02.20 /private/var/folders/n9/gpmtfssd3vd2cbc07pcbd7vm0000gn/T/AppTranslocation/EECD9C57-A845-4016-8981-67BF73F13A91/d/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper --type=utility --utility-sub-type=node.mojom.NodeService --lang=ru --service-sandbox-type=none --user-data-dir=/Users/anna/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files --field-trial-handle=1718379636,r,6693613040320329157,12316451048907813683,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+anna               901   1,0  0,7 444585600  60368   ??  S    чт11    3:27.25 /private/var/folders/n9/gpmtfssd3vd2cbc07pcbd7vm0000gn/T/AppTranslocation/EECD9C57-A845-4016-8981-67BF73F13A91/d/Visual Studio Code.app/Contents/Frameworks/Code Helper (GPU).app/Contents/MacOS/Code Helper (GPU) --type=gpu-process --user-data-dir=/Users/anna/Library/Application Support/Code --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAcAAAAAAABoBwAAAAAAAHgCAABOAAAAcAIAAAAAAAB4AgAAAAAAAIACAAAAAAAAiAIAAAAAAACQAgAAAAAAAJgCAAAAAAAAoAIAAAAAAACoAgAAAAAAALACAAAAAAAAuAIAAAAAAADAAgAAAAAAAMgCAAAAAAAA0AIAAAAAAADYAgAAAAAAAOACAAAAAAAA6AIAAAAAAADwAgAAAAAAAPgCAAAAAAAAAAMAAAAAAAAIAwAAAAAAABADAAAAAAAAGAMAAAAAAAAgAwAAAAAAACgDAAAAAAAAMAMAAAAAAAA4AwAAAAAAAEADAAAAAAAASAMAAAAAAABQAwAAAAAAAFgDAAAAAAAAYAMAAAAAAABoAwAAAAAAAHADAAAAAAAAeAMAAAAAAACAAwAAAAAAAIgDAAAAAAAAkAMAAAAAAACYAwAAAAAAAKADAAAAAAAAqAMAAAAAAACwAwAAAAAAALgDAAAAAAAAwAMAAAAAAADIAwAAAAAAANADAAAAAAAA2AMAAAAAAADgAwAAAAAAAOgDAAAAAAAA8AMAAAAAAAD4AwAAAAAAAAAEAAAAAAAACAQAAAAAAAAQBAAAAAAAABgEAAAAAAAAIAQAAAAAAAAoBAAAAAAAADAEAAAAAAAAOAQAAAAAAABABAAAAAAAAEgEAAAAAAAAUAQAAAAAAABYBAAAAAAAAGAEAAAAAAAAaAQAAAAAAABwBAAAAAAAAHgEAAAAAAAAgAQAAAAAAACIBAAAAAAAAJAEAAAAAAAAmAQAAAAAAACgBAAAAAAAAKgEAAAAAAAAsAQAAAAAAAC4BAAAAAAAAMAEAAAAAAAAyAQAAAAAAADQBAAAAAAAANgEAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAAAAACAAAAEAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAAAAAAAHAAAAEAAAAAAAAAAAAAAACAAAABAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAAAAAAALAAAAEAAAAAAAAAAAAAAADAAAABAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAAAAAAAPAAAAEAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAEAAAABAAAAEAAAAAAAAAABAAAAAgAAABAAAAAAAAAAAQAAAAMAAAAQAAAAAAAAAAEAAAAGAAAAEAAAAAAAAAABAAAABwAAABAAAAAAAAAAAQAAAAgAAAAQAAAAAAAAAAEAAAAJAAAAEAAAAAAAAAABAAAACwAAABAAAAAAAAAAAQAAAAwAAAAQAAAAAAAAAAEAAAAOAAAAEAAAAAAAAAABAAAADwAAABAAAAAAAAAAAQAAABAAAAAQAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAAEAAAAAQAAABAAAAAAAAAABAAAAAIAAAAQAAAAAAAAAAQAAAADAAAAEAAAAAAAAAAEAAAABgAAABAAAAAAAAAABAAAAAcAAAAQAAAAAAAAAAQAAAAIAAAAEAAAAAAAAAAEAAAACQAAABAAAAAAAAAABAAAAAsAAAAQAAAAAAAAAAQAAAAMAAAAEAAAAAAAAAAEAAAADgAAABAAAAAAAAAABAAAAA8AAAAQAAAAAAAAAAQAAAAQAAAAEAAAAAAAAAAHAAAAAAAAABAAAAAAAAAABwAAAAEAAAAQAAAAAAAAAAcAAAACAAAAEAAAAAAAAAAHAAAAAwAAABAAAAAAAAAABwAAAAYAAAAQAAAAAAAAAAcAAAAHAAAAEAAAAAAAAAAHAAAACAAAABAAAAAAAAAABwAAAAkAAAAQAAAAAAAAAAcAAAALAAAAEAAAAAAAAAAHAAAADAAAABAAAAAAAAAABwAAAA4AAAAQAAAAAAAAAAcAAAAPAAAAEAAAAAAAAAAHAAAAEAAAABAAAAAAAAAACAAAAAAAAAAQAAAAAAAAAAgAAAABAAAAEAAAAAAAAAAIAAAAAgAAABAAAAAAAAAACAAAAAMAAAAQAAAAAAAAAAgAAAAGAAAAEAAAAAAAAAAIAAAABwAAABAAAAAAAAAACAAAAAgAAAAQAAAAAAAAAAgAAAAJAAAAEAAAAAAAAAAIAAAACwAAABAAAAAAAAAACAAAAAwAAAAQAAAAAAAAAAgAAAAOAAAAEAAAAAAAAAAIAAAADwAAABAAAAAAAAAACAAAABAAAAAQAAAAAAAAAAoAAAAAAAAAEAAAAAAAAAAKAAAAAQAAABAAAAAAAAAACgAAAAIAAAAQAAAAAAAAAAoAAAADAAAAEAAAAAAAAAAKAAAABgAAABAAAAAAAAAACgAAAAcAAAAQAAAAAAAAAAoAAAAIAAAAEAAAAAAAAAAKAAAACQAAABAAAAAAAAAACgAAAAsAAAAQAAAAAAAAAAoAAAAMAAAAEAAAAAAAAAAKAAAADgAAABAAAAAAAAAACgAAAA8AAAAQAAAAAAAAAAoAAAAQAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=1718379636,r,6693613040320329157,12316451048907813683,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --seatbelt-client=39
+anna              7929   0,6  0,0 410396944   3472 s013  Ss    9:07     0:00.07 /bin/zsh -il
+root               159   0,6  0,2 410375904  16608   ??  Ss   чт11    1:25.60 /usr/libexec/runningboardd
+anna               922   0,3  1,1 1587260848  95248   ??  S    чт11    1:00.52 /private/var/folders/n9/gpmtfssd3vd2cbc07pcbd7vm0000gn/T/AppTranslocation/EECD9C57-A845-4016-8981-67BF73F13A91/d/Visual Studio Code.app/Contents/Frameworks/Code Helper (Plugin).app/Contents/MacOS/Code Helper (Plugin) --type=utility --utility-sub-type=node.mojom.NodeService --lang=ru --service-sandbox-type=none --dns-result-order=ipv4first --inspect-port=0 --user-data-dir=/Users/anna/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files --field-trial-handle=1718379636,r,6693613040320329157,12316451048907813683,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+root               383   0,1  0,2 410374432  13664   ??  Ss   чт11    0:13.74 /usr/libexec/gamepolicyd
+anna               494   0,1  0,6 412019184  47728   ??  S    чт11    1:41.24 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+anna               636   0,1  1,6 418976176 130816   ??  S    чт11   10:09.21 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/MacOS/Safari
+root               324   0,1  0,1 410921968   4368   ??  Ss   чт11    0:44.57 /usr/libexec/audioclocksyncd
+_mysql             353   0,1  0,0 412046688   3824   ??  Ss   чт11    1:42.66 /usr/local/mysql/bin/mysqld --user=_mysql --basedir=/usr/local/mysql --datadir=/usr/local/mysql/data --plugin-dir=/usr/local/mysql/lib/plugin --log-error=/usr/local/mysql/data/mysqld.local.err --pid-file=/usr/local/mysql/data/mysqld.local.pid
+anna               667   0,1  0,7 413332256  57584   ??  Ss   чт11   30:11.41 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU
+root               101   0,1  0,2 410365216  12688   ??  Ss   чт11    0:33.52 /System/Library/CoreServices/powerd.bundle/powerd
+anna              7780   0,0  0,1 410336112   7120   ??  Ss    9:00     0:00.06 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+anna              7618   0,0  0,3 410418944  27504   ??  S     8:54     0:00.69 /System/Library/PrivateFrameworks/MediaAnalysis.framework/Versions/A/mediaanalysisd
+anna              7605   0,0  0,7 410474816  61472   ??  Ss    8:53     0:02.68 /Applications/WhatsApp.app/Contents/PlugIns/ServiceExtension.appex/Contents/MacOS/ServiceExtension -AppleLanguages ("ru-RU", "en-RU", "ar-RU")
+anna              7601   0,0  0,2 410463536  14752   ??  S     8:52     0:00.11 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+anna              7600   0,0  0,1 414812144  12304   ??  S     8:52     0:00.22 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/reversetemplated
+anna              7599   0,0  0,1 410355280  11632   ??  S     8:52     0:00.13 /System/Library/Frameworks/Translation.framework/translationd
+anna              7598   0,0  0,2 410361632  13232   ??  S     8:52     0:00.15 /System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service
+anna              7596   0,0  0,3 410344336  21328   ??  S     8:52     0:00.37 /System/Library/PrivateFrameworks/iTunesCloud.framework/Support/itunescloudd
+anna              7595   0,0  0,2 410928112  13344   ??  Ss    8:52     0:00.12 /System/Library/PrivateFrameworks/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.SearchHelper.xpc/Contents/MacOS/com.apple.Safari.SearchHelper
+root              7538   0,0  0,1 410295360   4336   ??  Ss    8:50     0:00.07 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd
+anna              7537   0,0  0,3 410378592  21408   ??  S     8:50     0:00.69 /System/Library/Frameworks/StoreKit.framework/Support/storekitagent
+anna              7489   0,0  0,1 410233744   7440   ??  S     8:46     0:00.06 /System/Library/CoreServices/pbs
+anna              7488   0,0  0,2 410341216  16912   ??  S     8:46     0:01.14 /System/Library/PrivateFrameworks/AXAssetLoader.framework/Support/axassetsd
+root              7487   0,0  0,0 410146960   1760   ??  Ss    8:46     0:00.02 /usr/libexec/smd
+anna              7480   0,0  0,1 410326720   8512   ??  S     8:46     0:00.10 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+anna              7476   0,0  0,3 410454016  28624   ??  S     8:46     0:00.54 /usr/libexec/transparencyd
+root              7473   0,0  0,2 410326704  14064   ??  Ss    8:46     0:00.16 /usr/libexec/wifivelocityd
+anna              7472   0,0  0,0 410314320   4016   ??  S     8:46     0:00.04 /usr/libexec/WiFiVelocityAgent
+anna              7471   0,0  0,1 410200224   4928   ??  S     8:46     0:00.12 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+anna              7466   0,0  0,1 410789136   6928   ??  S     8:46     0:00.05 /usr/libexec/keychainsharingmessagingd
+anna              7465   0,0  0,2 410364512  13936   ??  S     8:46     0:00.18 /usr/libexec/pkd
+anna              7464   0,0  0,2 411341392  19664   ??  S     8:46     0:00.11 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+anna              7463   0,0  0,2 410509184  15856   ??  S     8:46     0:00.19 /System/Cryptexes/App/usr/libexec/AuthenticationServicesAgent
+root              7462   0,0  0,0 410200128   2032   ??  Ss    8:46     0:00.02 /System/Library/PrivateFrameworks/AccountPolicy.framework/XPCServices/com.apple.AccountPolicyHelper.xpc/Contents/MacOS/com.apple.AccountPolicyHelper
+anna              7460   0,0  0,1 410372928   9632   ??  S     8:46     0:00.04 /System/Library/PrivateFrameworks/IntlPreferences.framework/Support/localizationswitcherd
+root              7457   0,0  0,1 410327120   6912   ??  Ss    8:41     0:00.11 /usr/libexec/countryd
+root              7451   0,0  0,1 410334928   8656   ??  Ss    8:41     0:00.06 /System/Library/CoreServices/osanalyticshelper server-init
+_hidd             7450   0,0  0,0 410165744   2752   ??  Ss    8:41     0:00.05 /usr/libexec/hidd
+root              7448   0,0  0,1 410327072   7872   ??  Ss    8:29     0:00.44 /usr/libexec/findmybeaconingd
+root              7445   0,0  0,0 410314016   4160   ??  Ss    8:28     0:00.07 /usr/libexec/securityd_system
+root              7444   0,0  0,1 410356512   6256   ??  Ss    8:28     0:00.28 /usr/libexec/sandboxd
+anna              7438   0,0  0,1 410345392   9904   ??  S     8:28     0:00.29 /usr/libexec/swcd
+anna              7434   0,0  0,2 410333584  15008   ??  S     8:28     0:00.36 /System/Library/PrivateFrameworks/AppleMediaServices.framework/Resources/amsaccountsd
+anna              7433   0,0  0,2 410328112  15520   ??  S     8:28     0:00.57 /System/Library/PrivateFrameworks/UsageTracking.framework/Versions/A/UsageTrackingAgent
+anna              7429   0,0  0,3 410362656  23264   ??  S     8:28     0:00.64 /System/Library/PrivateFrameworks/CalendarDaemon.framework/Support/calaccessd
+anna              7426   0,0  0,1 410295776  11184   ??  S     8:28     0:00.09 /System/Library/PrivateFrameworks/PhotoLibraryServices.framework/Versions/A/Support/photolibraryd
+anna              7425   0,0  0,2 410337808  15248   ??  S     8:27     0:00.27 /usr/libexec/biomesyncd
+anna              7424   0,0  0,2 410334608  14128   ??  Ss    8:27     0:00.68 /System/Library/PrivateFrameworks/IntelligencePlatformCompute.framework/Versions/A/XPCServices/IntelligencePlatformComputeService.xpc/Contents/MacOS/IntelligencePlatformComputeService
+anna              7423   0,0  0,3 410408000  21712   ??  S     8:27     0:00.23 /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+anna              7422   0,0  0,2 410999360  18608   ??  S     8:27     0:00.11 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/MacOS/coreautha
+anna              7421   0,0  0,2 410326096  12656   ??  S     8:27     0:00.11 /System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent
+root              7420   0,0  0,1 410364128  10256   ??  Ss    8:27     0:00.10 /usr/libexec/biometrickitd --launchd
+anna              7419   0,0  0,2 410337008  18736   ??  S     8:27     0:00.31 /System/Library/PrivateFrameworks/DoNotDisturbServer.framework/Support/donotdisturbd
+anna              7418   0,0  0,2 410363616  12768   ??  S     8:27     0:00.15 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+anna              7417   0,0  0,2 410365344  18016   ??  S     8:27     0:00.20 /System/Library/PrivateFrameworks/EmailDaemon.framework/Versions/A/maild
+root              7415   0,0  0,0 410198240   4144   ??  Ss    8:27     0:00.02 /System/Library/PrivateFrameworks/AppleCredentialManager.framework/AppleCredentialManagerDaemon
+anna              7411   0,0  0,1 410351904  12144   ??  S     8:26     0:00.25 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistoryPluginHelper
+anna              7409   0,0  0,1 410328480   6864   ??  S     8:26     0:00.12 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
+anna              7408   0,0  0,3 410344240  21312   ??  S     8:26     0:00.44 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistorySyncHelper
+anna              7403   0,0  0,1 410368400  10544   ??  S     8:25     0:00.19 /usr/libexec/dmd
+anna              7402   0,0  0,2 410375632  17088   ??  S     8:25     0:01.29 /System/Library/PrivateFrameworks/ScreenTimeCore.framework/Versions/A/ScreenTimeAgent
+anna              7396   0,0  0,3 410340480  21344   ??  S     8:24     0:01.59 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+root              7394   0,0  0,1 410328512   6640   ??  Ss    8:24     0:00.17 /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd
+root              7392   0,0  0,1 410293936   4480   ??  Ss    8:24     0:00.06 /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd-helper -launchd
+root              7393   0,0  0,1 410326016  11168   ??  Ss    8:24     0:00.07 /usr/libexec/powerdatad
+anna              7383   0,0  0,1 410370560  10480   ??  S     8:21     0:01.90 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+_biome            7382   0,0  0,2 410363744  14192   ??  Ss    8:21     0:00.61 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed
+root              7381   0,0  0,3 410379456  25056   ??  Ss    8:21     0:01.25 /usr/libexec/coreduetd
+anna              7368   0,0  0,2 410372304  18560   ??  S     8:21     0:00.26 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+anna              7367   0,0  0,7 410657168  55968   ??  Ss    8:21     0:01.35 /System/Applications/Weather.app/Contents/PlugIns/WeatherWidget.appex/Contents/MacOS/WeatherWidget
+anna              7361   0,0  0,1 410373584   7536   ??  S     8:19     0:00.17 /usr/libexec/secinitd
+anna              7360   0,0  0,4 410418928  33648   ??  Ss    8:19     0:01.08 /System/Library/CoreServices/Batteries.app/Contents/PlugIns/BatteriesAvocadoWidgetExtension.appex/Contents/MacOS/BatteriesAvocadoWidgetExtension
+anna              7359   0,0  0,1 410372880  10368   ??  Ss    8:19     0:00.34 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+root              7358   0,0  0,0 410162912   3104   ??  Ss    8:19     0:00.35 /usr/libexec/sysmond
+root              7355   0,0  0,2 410304416  14384   ??  Ss    8:19     0:00.70 /usr/libexec/wifip2pd
+anna              7352   0,0  0,1 410365008  11952   ??  S     8:19     0:00.09 /System/Library/PrivateFrameworks/Synapse.framework/Support/contentlinkingd
+anna              7351   0,0  0,3 410528896  23216   ??  S     8:19     0:00.28 /System/Cryptexes/App/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
+anna              7350   0,0  0,3 410385632  21104   ??  S     8:18     0:00.19 /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+root              7349   0,0  0,1 410621360   4416   ??  Ss    8:18     0:00.02 /usr/libexec/online-auth-agent
+anna              7347   0,0  0,1 410294352   6784   ??  S     8:18     0:00.14 /usr/libexec/gamecontrolleragentd
+_gamecontrollerd  7346   0,0  0,1 410331520   8928   ??  Ss    8:18     0:00.17 /usr/libexec/gamecontrollerd
+anna              7345   0,0  0,3 410378416  23072   ??  S     8:18     0:02.48 /System/Library/CoreServices/UniversalControl.app/Contents/MacOS/UniversalControl
+anna              7343   0,0  0,2 410371328  16368   ??  S     8:18     0:00.19 /usr/libexec/intelligentroutingd
+anna              7341   0,0  0,2 410356656  16416   ??  S     8:18     0:00.47 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird
+anna              7340   0,0  0,1 410650480   8400   ??  S     8:18     0:00.10 /usr/libexec/SidecarRelay
+anna              7339   0,0  0,3 410378784  23792   ??  S     8:18     0:00.60 /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd
+anna              7338   0,0  0,2 410498048  18864   ??  S     8:18     0:00.12 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
+anna              7337   0,0  0,2 410377312  18976   ??  S     8:18     0:00.21 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
+anna              7330   0,0  0,2 410326560  13696   ??  S     8:18     0:00.12 /System/Library/PrivateFrameworks/SocialLayer.framework/sociallayerd.app/Contents/MacOS/sociallayerd
+root              7327   0,0  0,2 410364464  15120   ??  Ss    8:18     0:03.17 /usr/libexec/mobileassetd
+root              7326   0,0  0,0 410331152   2736   ??  Ss    8:18     0:00.07 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
+anna              7322   0,0  0,3 410349600  23312   ??  S     8:18     0:00.39 /System/Library/CoreServices/audioaccessoryd
+anna              7317   0,0  0,2 410360416  18960   ??  S     8:18     0:00.94 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/ContextStoreAgent
+root              7313   0,0  0,1 410303440   4912   ??  Ss    8:18     0:00.15 /usr/libexec/usermanagerd -t 15
+anna              7308   0,0  0,2 410376784  17104   ??  S     8:17     0:00.39 /usr/libexec/networkserviceproxy
+anna              7293   0,0  0,1 499263840  11776   ??  Ss    8:17     0:00.06 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+anna              7190   0,0  0,2 410372400  14176   ??  S     8:15     0:00.14 /usr/libexec/neagent
+root              7155   0,0  0,1 411197616   4416   ??  Ss    8:14     0:00.08 /usr/libexec/containermanagerd_system --runmode=privileged --user-container-mode=current --bundle-container-mode=global --bundle-container-owner=_appinstalld --system-container-mode=none
+anna              7154   0,0  0,2 410382800  16448   ??  S     8:14     0:00.76 /usr/libexec/nsurlsessiond
+anna              7145   0,0  0,2 410335952  20672   ??  S     8:14     0:00.58 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+_audiomxd         7140   0,0  0,1 410824992  10112   ??  Ss    8:14     0:00.09 /usr/libexec/audiomxd
+_fpsd             7136   0,0  0,1 410193200   4432   ??  Ss    8:14     0:00.14 /System/Library/PrivateFrameworks/CoreADI.framework/adid
+anna              7097   0,0  0,1 410325840   9616   ??  S     8:13     0:00.06 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd
+anna              7085   0,0  0,2 500328064  18624   ??  Ss    8:12     0:02.57 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+anna              6888   0,0  0,1 499190880  12400   ??  Ss    8:04     0:00.37 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+anna              6739   0,0  0,2 500516160  20208   ??  Ss    8:01     0:19.86 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+anna              6724   0,0  1,7 517718048 142448   ??  Ss    8:00     0:59.45 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+anna              6477   0,0  0,5 516499520  39616   ??  Ss    7:43     0:06.01 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+anna              6146   0,0  3,6 517831312 299872   ??  Ss    4:59     0:36.21 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+anna              5953   0,0  0,3 1589242656  24944   ??  S     4:24     0:04.96 /private/var/folders/n9/gpmtfssd3vd2cbc07pcbd7vm0000gn/T/AppTranslocation/EECD9C57-A845-4016-8981-67BF73F13A91/d/Visual Studio Code.app/Contents/Frameworks/Code Helper (Plugin).app/Contents/MacOS/Code Helper (Plugin) --ms-enable-electron-run-as-node /Users/anna/.vscode/extensions/ms-python.vscode-pylance-2024.3.2/dist/server.bundle.js --cancellationReceive=file:db00edd59063a0f520adc75f44491f6d96b6c48ae1 --node-ipc --clientProcessId=921
+anna              5949   0,0  0,0 410221456    416 s011  Ss+   4:24     0:00.01 /bin/zsh
+anna              5150   0,0  0,2 516846432  17520   ??  Ss    3:41     1:59.54 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+_neuralengine     4500   0,0  0,0 410266096   2144   ??  S    пт08    0:00.31 /usr/sbin/distnoted agent
+root              4465   0,0  0,3 410379712  24864   ??  Ss   пт07    0:52.51 /usr/libexec/PerfPowerServices
+anna              4345   0,0  0,4 410768656  36224   ??  Ss   пт11    0:02.93 /System/Library/CoreServices/Screen Time.app/Contents/PlugIns/ScreenTimeWidgetExtension.appex/Contents/MacOS/ScreenTimeWidgetExtension
+root              3642   0,0  0,1 410335792  12208   ??  Ss   чт05    0:03.89 /usr/libexec/rtcreportingd
+anna              3640   0,0  0,3 410374224  21040   ??  S    чт05    0:03.24 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+anna              3411   0,0  0,5 411989952  39648   ??  S    чт05    0:08.01 /System/Applications/Notes.app/Contents/MacOS/Notes
+anna              3141   0,0  0,3 410607856  24512   ??  S    чт05    0:07.53 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
+anna              3108   0,0  0,2 410377200  19664   ??  S    чт05    0:05.95 /usr/libexec/knowledge-agent
+anna              3080   0,0  0,3 410402416  27472   ??  S    чт05    0:06.18 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
+anna              2661   0,0  0,2 517063664  14720   ??  Ss   чт04    1:41.02 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+anna              2421   0,0  0,1 410365920  11952   ??  S    чт04    0:04.84 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/BiomeAgent
+anna              1732   0,0  2,6 1589251872 218784   ??  S    чт03    5:15.70 /private/var/folders/n9/gpmtfssd3vd2cbc07pcbd7vm0000gn/T/AppTranslocation/EECD9C57-A845-4016-8981-67BF73F13A91/d/Visual Studio Code.app/Contents/Frameworks/Code Helper (Plugin).app/Contents/MacOS/Code Helper (Plugin) --ms-enable-electron-run-as-node /Users/anna/.vscode/extensions/ms-python.vscode-pylance-2024.3.2/dist/server.bundle.js --cancellationReceive=file:1bb95d6024a26fedf44006166174892549eb72f0ef --node-ipc --clientProcessId=922
+anna              1729   0,0  0,0 410219408    368 s009  Ss+  чт03    0:00.01 /bin/zsh
+anna              1720   0,0  0,0 410368912    368 s007  Ss+  чт03    0:00.01 /bin/zsh
+anna              1621   0,0  0,0 410770944    368 s001  Ss+  чт02    0:00.03 /bin/bash --login -i
+_audiomxd         1203   0,0  0,0 410266096   2128   ??  S    чт12    0:00.60 /usr/sbin/distnoted agent
+anna              1105   0,0  0,0 410639104   1776   ??  S    чт11    0:02.81 /Applications/PyCharm CE.app/Contents/bin/fsnotifier
+anna              1074   0,0  0,1 410325984  11104   ??  S    чт11    0:00.08 /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent
+root              1050   0,0  0,1 410163280   6752   ??  Ss   чт11    0:00.05 /System/Library/CoreServices/Applications/Feedback Assistant.app/Contents/Library/LaunchServices/fbahelperd
+anna              1022   0,0  0,0 410265584    384 s005  Ss+  чт11    0:00.07 /bin/zsh -il
+anna               976   0,0  0,3 1587179360  21168   ??  S    чт11    0:04.62 /private/var/folders/n9/gpmtfssd3vd2cbc07pcbd7vm0000gn/T/AppTranslocation/EECD9C57-A845-4016-8981-67BF73F13A91/d/Visual Studio Code.app/Contents/Frameworks/Code Helper (Plugin).app/Contents/MacOS/Code Helper (Plugin) --ms-enable-electron-run-as-node /private/var/folders/n9/gpmtfssd3vd2cbc07pcbd7vm0000gn/T/AppTranslocation/EECD9C57-A845-4016-8981-67BF73F13A91/d/Visual Studio Code.app/Contents/Resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=922
+anna               975   0,0  0,1 1587175264  10368   ??  S    чт11    0:04.14 /private/var/folders/n9/gpmtfssd3vd2cbc07pcbd7vm0000gn/T/AppTranslocation/EECD9C57-A845-4016-8981-67BF73F13A91/d/Visual Studio Code.app/Contents/Frameworks/Code Helper (Plugin).app/Contents/MacOS/Code Helper (Plugin) --ms-enable-electron-run-as-node /private/var/folders/n9/gpmtfssd3vd2cbc07pcbd7vm0000gn/T/AppTranslocation/EECD9C57-A845-4016-8981-67BF73F13A91/d/Visual Studio Code.app/Contents/Resources/app/extensions/markdown-language-features/server/dist/node/workerMain --node-ipc --clientProcessId=921
+anna               948   0,0  0,0 410396944   2624 s003  Ss+  чт11    0:00.47 /bin/zsh -il
+anna               925   0,0  0,3 1587226528  28144   ??  S    чт11    0:05.66 /private/var/folders/n9/gpmtfssd3vd2cbc07pcbd7vm0000gn/T/AppTranslocation/EECD9C57-A845-4016-8981-67BF73F13A91/d/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper --type=utility --utility-sub-type=node.mojom.NodeService --lang=ru --service-sandbox-type=none --user-data-dir=/Users/anna/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files --field-trial-handle=1718379636,r,6693613040320329157,12316451048907813683,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+anna               924   0,0  0,2 1587252096  14448   ??  S    чт11    0:04.93 /private/var/folders/n9/gpmtfssd3vd2cbc07pcbd7vm0000gn/T/AppTranslocation/EECD9C57-A845-4016-8981-67BF73F13A91/d/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper --type=utility --utility-sub-type=node.mojom.NodeService --lang=ru --service-sandbox-type=none --user-data-dir=/Users/anna/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files --field-trial-handle=1718379636,r,6693613040320329157,12316451048907813683,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+anna               923   0,0  0,5 1587235472  44624   ??  S    чт11    0:25.11 /private/var/folders/n9/gpmtfssd3vd2cbc07pcbd7vm0000gn/T/AppTranslocation/EECD9C57-A845-4016-8981-67BF73F13A91/d/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper --type=utility --utility-sub-type=node.mojom.NodeService --lang=ru --service-sandbox-type=none --user-data-dir=/Users/anna/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files --field-trial-handle=1718379636,r,6693613040320329157,12316451048907813683,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+anna               921   0,0  0,3 1587236240  25072   ??  S    чт11    0:21.16 /private/var/folders/n9/gpmtfssd3vd2cbc07pcbd7vm0000gn/T/AppTranslocation/EECD9C57-A845-4016-8981-67BF73F13A91/d/Visual Studio Code.app/Contents/Frameworks/Code Helper (Plugin).app/Contents/MacOS/Code Helper (Plugin) --type=utility --utility-sub-type=node.mojom.NodeService --lang=ru --service-sandbox-type=none --dns-result-order=ipv4first --inspect-port=0 --user-data-dir=/Users/anna/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files --field-trial-handle=1718379636,r,6693613040320329157,12316451048907813683,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+anna               905   0,0  1,8 1595740704 151616   ??  S    чт11    1:14.51 /private/var/folders/n9/gpmtfssd3vd2cbc07pcbd7vm0000gn/T/AppTranslocation/EECD9C57-A845-4016-8981-67BF73F13A91/d/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) --type=renderer --user-data-dir=/Users/anna/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --app-path=/private/var/folders/n9/gpmtfssd3vd2cbc07pcbd7vm0000gn/T/AppTranslocation/EECD9C57-A845-4016-8981-67BF73F13A91/d/Visual Studio Code.app/Contents/Resources/app --enable-sandbox --enable-blink-features=HighlightAPI --lang=ru --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1737014936775123 --launch-time-ticks=395679240 --shared-files --field-trial-handle=1718379636,r,6693613040320329157,12316451048907813683,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --vscode-window-config=vscode:3fd60e3c-f0f1-4940-bb20-b51a509877fe --seatbelt-client=60
+anna               902   0,0  0,2 443945024  15232   ??  S    чт11    0:05.81 /private/var/folders/n9/gpmtfssd3vd2cbc07pcbd7vm0000gn/T/AppTranslocation/EECD9C57-A845-4016-8981-67BF73F13A91/d/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=ru --service-sandbox-type=network --user-data-dir=/Users/anna/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files --field-trial-handle=1718379636,r,6693613040320329157,12316451048907813683,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --seatbelt-client=39
+anna               900   0,0  0,0 443693376   2768   ??  S    чт11    0:00.09 /var/folders/n9/gpmtfssd3vd2cbc07pcbd7vm0000gn/T/AppTranslocation/EECD9C57-A845-4016-8981-67BF73F13A91/d/Visual Studio Code.app/Contents/Frameworks/Electron Framework.framework/Helpers/chrome_crashpad_handler --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=/Users/anna/Library/Application Support/Code/Crashpad --url=appcenter://code?aid=de75e3cc-e22f-4f42-a03f-1409c21d8af8&uid=8ecd25fa-ef18-4a79-8b48-95f98f3d7207&iid=8ecd25fa-ef18-4a79-8b48-95f98f3d7207&sid=8ecd25fa-ef18-4a79-8b48-95f98f3d7207 --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.85.1 --annotation=plat=OS X --annotation=prod=Electron --annotation=ver=25.9.7 --handshake-fd=26
+_rmd               845   0,0  0,0 410266096   2128   ??  S    чт11    0:00.62 /usr/sbin/distnoted agent
+_spotlight         814   0,0  0,1 410328912   8880   ??  SN   чт11    0:00.96 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport
+postgres           808   0,0  0,1 410336336   6624   ??  S    чт11    0:00.17 /usr/libexec/lsd
+postgres           805   0,0  0,1 410336640   9600   ??  SN   чт11    0:01.49 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport
+postgres           804   0,0  0,0 410266096   2368   ??  S    чт11    0:00.93 /usr/sbin/distnoted agent
+root               766   0,0  0,0 410293760   2896   ??  Ss   чт11    0:00.01 /System/Library/CoreServices/CrashReporterSupportHelper server-init
+root               743   0,0  0,2 410334928  13488   ??  Ss   чт11    0:01.13 /System/Library/CoreServices/SubmitDiagInfo server-init
+anna               514   0,0  0,1 410327920  11664   ??  S    чт11    0:01.36 /System/Library/CoreServices/diagnostics_agent
+_gamecontrollerd   698   0,0  0,0 410266096   2128   ??  S    чт11    0:00.62 /usr/sbin/distnoted agent
+anna               691   0,0  0,1 410364064   7984   ??  S    чт11    0:00.09 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storedownloadd
+_applepay          683   0,0  0,0 410266096   2128   ??  S    чт11    0:00.64 /usr/sbin/distnoted agent
+anna               681   0,0  0,2 410338240  15552   ??  SN   чт11    0:07.08 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport
+anna               674   0,0  0,3 411023696  25552   ??  Ss   чт11    0:02.07 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+_assetcache        670   0,0  0,0 410266096   2128   ??  S    чт11    0:00.63 /usr/sbin/distnoted agent
+anna               664   0,0  0,1 410699936   8048   ??  S    чт11    0:01.70 /Library/Apple/System/Library/PrivateFrameworks/RemotePairing.framework/Versions/A/XPCServices/remotepairingd.xpc/Contents/MacOS/remotepairingd
+anna               662   0,0  0,1 410366560  10240   ??  S    чт11    0:01.90 /System/Cryptexes/App/usr/libexec/webinspectord
+anna               654   0,0  0,6 416050320  49648   ??  Ss   чт11    7:14.22 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+anna               649   0,0  0,2 410377088  15440   ??  S    чт11    0:01.47 /System/Library/PrivateFrameworks/PassKitCore.framework/passd
+root               648   0,0  0,0 410314832   1744   ??  Ss   чт11    0:00.04 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+anna               641   0,0  0,1 411555680  12240   ??  S    чт11    0:18.50 /System/Cryptexes/App/usr/libexec/com.apple.Safari.History
+anna               629   0,0  0,2 410389760  19456   ??  S    чт11    0:10.95 /usr/libexec/searchpartyuseragent
+anna               623   0,0  0,2 410385568  13232   ??  Ss   чт11    0:00.26 /System/Library/CoreServices/PeopleViewService.app/Contents/PlugIns/PeopleWidget_macOSExtension.appex/Contents/MacOS/PeopleWidget_macOSExtension
+root               612   0,0  0,1 410364720   7552   ??  Ss   чт11    0:08.04 /usr/libexec/audioanalyticsd
+anna               592   0,0  0,2 410396656  14592   ??  Ss   чт11    0:02.12 /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension -AppleLanguages ("ru-RU", "en-RU", "ar-RU")
+anna               588   0,0  0,1 411364288  11712   ??  S    чт11    0:01.36 /usr/libexec/avconferenced
+_driverkit         587   0,0  0,0 410596048    400   ??  Ss   чт11    0:00.06 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x100000b78 com.apple.IOUserBluetoothSerialDriver
+anna               585   0,0  0,2 410365168  14880   ??  S    чт11    0:02.35 /usr/libexec/bluetoothuserd
+anna               584   0,0  0,0 410199536   4064   ??  S    чт11    0:00.57 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+anna               578   0,0  0,2 410369296  15456   ??  S    чт11    0:01.49 /System/Library/PrivateFrameworks/StatusKit.framework/StatusKitAgent
+anna               577   0,0  0,1 410323472   8144   ??  S    чт11    0:00.09 /usr/libexec/seserviced
+anna               567   0,0  0,2 410374976  14032   ??  S    чт11    0:00.71 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
+anna               553   0,0  0,2 410373600  13600   ??  S    чт11    0:05.94 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
+anna               554   0,0  0,3 410986592  25888   ??  Ss   чт11    0:09.38 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
+anna               549   0,0  0,2 410492496  19376   ??  S    чт11    0:35.27 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+_fpsd              548   0,0  0,1 410387440   5024   ??  Ss   чт11    0:01.17 /System/Library/PrivateFrameworks/CoreFP.framework/Versions/A/fairplayd
+anna               547   0,0  1,1 415614096  91248   ??  S    чт11    2:07.95 /Applications/NotVPN.app/Wrapper/NotVPN.app/NotVPN
+_nearbyd           543   0,0  0,1 410374176  11744   ??  Ss   чт11    0:41.48 /usr/libexec/nearbyd
+anna               541   0,0  0,2 410398192  18192   ??  S    чт11    0:04.35 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled
+anna               540   0,0  0,4 411756432  29408   ??  S    чт11    0:04.45 /System/Library/CoreServices/UIKitSystem.app/Contents/MacOS/UIKitSystem system_app_start
+_appinstalld       533   0,0  0,0 410266096   2128   ??  S    чт11    0:00.59 /usr/sbin/distnoted agent
+_oahd              530   0,0  0,0 410167504   1824   ??  Ss   чт11    0:00.03 /usr/libexec/rosetta/oahd
+anna               529   0,0  0,3 411172368  27328   ??  S    чт11    0:15.19 /System/Library/PrivateFrameworks/TextInputUIMacHelper.framework/Versions/A/XPCServices/CursorUIViewService.xpc/Contents/MacOS/CursorUIViewService
+anna               521   0,0  0,1 410330768   4944   ??  S    чт11    0:00.07 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
+anna               511   0,0  0,3 410370560  22720   ??  S    чт11    0:09.98 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+anna               508   0,0  0,4 410771984  31648   ??  S    чт11    0:59.60 /usr/libexec/sharingd
+anna               519   0,0  0,4 410526144  32992   ??  S    чт11    0:59.45 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+anna               498   0,0  0,2 410369760  15264   ??  S    чт11    0:01.75 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
+anna               504   0,0  0,1 410363296   5424   ??  S    чт11    0:00.09 /System/Library/Image Capture/Support/icdd
+anna               515   0,0  0,3 411907632  21504   ??  S    чт11    0:03.37 /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+anna               510   0,0  0,2 411373280  13648   ??  S    чт11    0:00.71 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+anna               497   0,0  0,3 411800544  24416   ??  S    чт11    0:03.87 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+root               493   0,0  0,1 410364240   9952   ??  Ss   чт11    0:00.66 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd
+anna               431   0,0  0,2 410368752  16464   ??  S    чт11    0:09.21 /usr/libexec/ContinuityCaptureAgent server
+anna               485   0,0  0,1 410386720   6304   ??  S    чт11    0:00.40 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/fontworker
+anna               491   0,0  0,1 410396688   6608   ??  Ss   чт11    0:00.72 /Applications/DiskO.app/Contents/PlugIns/Mail.Ru.DiskO.as.FSE.appex/Contents/MacOS/Mail.Ru.DiskO.as.FSE -AppleLanguages ("ru-RU", "en-RU", "ar-RU")
+anna               484   0,0  0,4 410396304  32560   ??  S    чт11    0:14.35 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+anna               482   0,0  0,1 410497360  11936   ??  S    чт11    0:03.31 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+anna               481   0,0  0,1 410866752   9408   ??  Ss   чт11    0:00.29 /System/Library/ExtensionKit/Extensions/WallpaperImageExtension.appex/Contents/MacOS/WallpaperImageExtension
+anna               480   0,0  0,1 410364112   6032   ??  S    чт11    0:01.10 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+anna               475   0,0  0,1 410235328  10880   ??  S    чт11    0:00.83 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+_appleevents       461   0,0  0,0 410266096   2128   ??  S    чт11    0:00.60 /usr/sbin/distnoted agent
+anna               469   0,0  0,2 410373808  14928   ??  S    чт11    0:15.66 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd
+anna               464   0,0  0,3 410393632  21760   ??  S    чт11    0:18.53 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
+anna               458   0,0  0,1 411486608  11856   ??  S    чт11    0:01.08 /System/Library/PrivateFrameworks/UserNotificationsCore.framework/Support/usernotificationsd
+anna               465   0,0  0,1 410372624   7472   ??  S    чт11    0:00.10 /System/Library/PrivateFrameworks/AMPDevices.framework/Versions/A/Support/AMPDeviceDiscoveryAgent --launchd
+anna               450   0,0  0,4 412177120  34432   ??  S    чт11    0:28.64 /System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod
+anna               446   0,0  0,1 410363744   9008   ??  S    чт11    0:06.27 /System/Library/CoreServices/lockoutagent
+anna               456   0,0  0,4 410406496  35616   ??  S    чт11    0:22.75 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+anna               463   0,0  0,1 410365824  10768   ??  S    чт11    0:00.34 /System/Library/CoreServices/sharedfilelistd
+anna               451   0,0  0,3 412199920  28048   ??  S    чт11    0:17.76 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
+root               462   0,0  0,1 410201328   4544   ??  Ss   чт11    0:00.04 automountd
+anna               460   0,0  0,1 410363008   8944   ??  S    чт11    0:05.20 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+root               459   0,0  0,1 410372448  12192   ??  Ss   чт11    0:01.63 /usr/sbin/filecoordinationd
+anna               457   0,0  0,3 411788384  23040   ??  S    чт11    0:09.91 /System/Library/CoreServices/WallpaperAgent.app/Contents/MacOS/WallpaperAgent
+anna               441   0,0  0,3 410375424  21408   ??  S    чт11    0:02.68 /usr/sbin/usernoted
+anna               439   0,0  0,3 410372048  21376   ??  S    чт11    0:13.40 /usr/libexec/rapportd
+anna               443   0,0  0,2 410376736  16448   ??  S    чт11    0:50.05 /usr/libexec/trustd --agent
+anna               429   0,0  0,2 410600784  20736   ??  S    чт11    0:37.37 /usr/libexec/secd
+anna               428   0,0  0,2 410375728  15872   ??  S    чт11    0:05.07 /usr/libexec/lsd
+anna               425   0,0  0,5 411561168  45120   ??  S    чт11    0:19.59 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+anna               424   0,0  0,2 411607536  16576   ??  S    чт11    0:00.96 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+anna               423   0,0  0,6 411780496  48560   ??  S    чт11    0:45.92 /System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter
+anna               422   0,0  0,3 411824688  29120   ??  S    чт11    0:23.47 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+anna               421   0,0  0,1 410372768   8080   ??  S    чт11    0:00.50 /usr/libexec/pboard
+anna               411   0,0  0,2 410368080  16624   ??  S    чт11    0:12.22 /usr/libexec/UserEventAgent (Aqua)
+anna               419   0,0  0,3 411776640  29024   ??  S    чт11    0:57.95 /System/Library/CoreServices/WindowManager.app/Contents/MacOS/WindowManager
+anna               416   0,0  0,2 410976336  14256   ??  S    чт11    0:01.95 /usr/sbin/universalaccessd launchd -s
+anna               410   0,0  0,1 410332752   5200   ??  S    чт11    0:21.07 /usr/sbin/cfprefsd agent
+anna               406   0,0  0,1 410267120   5056   ??  S    чт11    0:18.76 /usr/sbin/distnoted agent
+root               407   0,0  0,0 410294416   1856   ??  Ss   чт11    0:00.03 /usr/libexec/securityd_service
+_netbios           400   0,0  0,1 410295280   5376   ??  SNs  чт11    0:00.40 /usr/sbin/netbiosd
+postgres           395   0,0  0,0 411249600   2688   ??  Ss   чт11    0:00.05 postgres: logical replication launcher   
+postgres           394   0,0  0,0 411381696   3040   ??  Ss   чт11    0:00.38 postgres: autovacuum launcher   
+postgres           393   0,0  0,0 411239360   1552   ??  Ss   чт11    0:00.19 postgres: walwriter   
+postgres           391   0,0  0,0 411240384   1664   ??  Ss   чт11    0:00.21 postgres: background writer   
+postgres           390   0,0  0,0 411239360   1952   ??  Ss   чт11    0:00.02 postgres: checkpointer   
+postgres           389   0,0  0,0 411094304   1104   ??  Ss   чт11    0:00.00 postgres: logger   
+_nsurlsessiond     386   0,0  0,0 410266096   2128   ??  S    чт11    0:00.63 /usr/sbin/distnoted agent
+root               375   0,0  0,1 410233968   5968   ??  S    чт11    0:00.56 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
+_ctkd              373   0,0  0,0 410304704   4096   ??  Ss   чт11    0:00.06 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -st
+root               362   0,0  0,1 410538080   4528   ??  Ss   чт11    0:00.11 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
+root               360   0,0  0,1 410232144   7488   ??  Ss   чт11    0:00.68 /usr/libexec/eligibilityd
+_accessoryupdater   359   0,0  0,0 410266096   2128   ??  S    чт11    0:00.61 /usr/sbin/distnoted agent
+root               356   0,0  0,2 410368816  12976   ??  Ss   чт11    0:07.57 /usr/libexec/wifianalyticsd
+root               355   0,0  0,2 410373424  13680   ??  Ss   чт11    0:00.86 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+postgres           352   0,0  0,0 411239680   4048   ??  Ss   чт11    0:01.76 /Library/PostgreSQL/16/bin/postgres -D /Library/PostgreSQL/16/data
+root               354   0,0  0,0 411892640   1488   ??  Ss   чт11    0:00.07 /Library/PrivilegedHelperTools/com.docker.vmnetd
+root               350   0,0  0,3 410394352  21280   ??  Ss   чт11    0:29.88 /usr/libexec/searchpartyd
+root               347   0,0  0,1 410307344   6368   ??  Ss   чт11    0:00.07 /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd
+_spotlight         344   0,0  0,0 410266096   2112   ??  S    чт11    0:00.61 /usr/sbin/distnoted agent
+_softwareupdate    343   0,0  0,0 410266096   2208   ??  S    чт11    0:00.69 /usr/sbin/distnoted agent
+_softwareupdate    335   0,0  0,2 414946608  19424   ??  Ss   чт11    0:26.97 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdated
+_locationd         334   0,0  0,0 410266096   2112   ??  S    чт11    0:00.64 /usr/sbin/distnoted agent
+_cmiodalassistants   325   0,0  0,1 410365040   7040   ??  Ss   чт11    0:00.23 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/UVCAssistant.systemextension/Contents/MacOS/UVCAssistant
+root               322   0,0  0,1 410365296   5952   ??  Ss   чт11    0:04.68 /usr/libexec/aned
+_cmiodalassistants   319   0,0  0,1 411347392   6240   ??  Ss   чт11    0:00.08 /usr/libexec/cameracaptured
+_cmiodalassistants   318   0,0  0,1 410369056   8704   ??  Ss   чт11    3:38.43 /usr/sbin/appleh13camerad
+root               320   0,0  0,1 410364256   8848   ??  Ss   чт11    0:06.47 /usr/sbin/WirelessRadioManagerd
+root               317   0,0  0,1 410374080   9632   ??  Ss   чт11    0:00.97 /usr/libexec/storagekitd
+_appleevents       316   0,0  0,1 410363888   5216   ??  Ss   чт11    0:00.24 /System/Library/CoreServices/appleeventsd --server
+root               304   0,0  0,6 412640384  48496   ??  Ss   чт11    0:43.89 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+_driverkit         303   0,0  0,0 410598224    608   ??  Ss   чт11    0:00.54 /System/Library/DriverExtensions/com.apple.AppleUserHIDDrivers.dext/com.apple.AppleUserHIDDrivers com.apple.driverkit.AppleUserHIDDrivers 0x1000009dd com.apple.AppleUserHIDDrivers
+_driverkit         301   0,0  0,0 410593920    384   ??  Ss   чт11    0:00.09 /System/Library/DriverExtensions/com.apple.DriverKit-IOUserDockChannelSerial.dext/com.apple.DriverKit-IOUserDockChannelSerial com.apple.IOUserDockChannelSerial 0x1000009da com.apple.DriverKit-IOUserDockChannelSerial
+_cmiodalassistants   257   0,0  0,0 410266096   2112   ??  S    чт11    0:00.64 /usr/sbin/distnoted agent
+root               255   0,0  0,0 410365440   3856   ??  Ss   чт11    0:00.77 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
+_analyticsd        203   0,0  0,2 410373888  16016   ??  Ss   чт11    0:11.20 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd
+root               248   0,0  0,1 410363760   5664   ??  Ss   чт11    0:01.49 /usr/sbin/mDNSResponderHelper
+root               246   0,0  0,2 410385040  13296   ??  Ss   чт11    0:17.86 /usr/libexec/syspolicyd
+_locationd         134   0,0  0,3 410402032  29184   ??  Ss   чт11    2:28.98 /usr/libexec/locationd
+_networkd          240   0,0  0,2 410376896  17744   ??  Ss   чт11    0:18.18 /usr/libexec/symptomsd
+_mdnsresponder     234   0,0  0,2 410371264  13968   ??  Ss   чт11    0:38.35 /usr/sbin/mDNSResponder
+_windowserver      221   0,0  0,0 410266096   2112   ??  S    чт11    0:00.69 /usr/sbin/distnoted agent
+_coreaudiod        215   0,0  0,0 410266096   2112   ??  S    чт11    0:00.69 /usr/sbin/distnoted agent
+root               218   0,0  0,1 410362592   5392   ??  Ss   чт11    0:00.25 /System/Library/PrivateFrameworks/SystemStatusServer.framework/Support/systemstatusd
+root               205   0,0  0,0 410266096   2256   ??  S    чт11    0:00.78 /usr/sbin/distnoted agent
+_trustd            204   0,0  0,2 410373424  14720   ??  Ss   чт11    0:50.29 /usr/libexec/trustd
+_nsurlsessiond     200   0,0  0,2 410380576  14816   ??  Ss   чт11    0:02.23 /usr/libexec/nsurlsessiond --privileged
+_coreaudiod        194   0,0  0,1 410419200   7776   ??  Ss   чт11   10:51.54 /usr/sbin/coreaudiod
+root               198   0,0  0,0 410191472   2896   ??  Ss   чт11    0:00.28 /usr/libexec/apfsd
+root               199   0,0  0,1 410363200   8512   ??  Ss   чт11    0:01.05 /usr/libexec/nehelper
+root               181   0,0  0,3 410379440  24816   ??  Ss   чт11    8:05.73 /usr/libexec/airportd
+root               166   0,0  0,2 410372944  14576   ??  Ss   чт11    0:13.13 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored
+root               171   0,0  0,1 410346528   4560   ??  Ss   чт11    0:01.15 /System/Library/CoreServices/coreservicesd
+_timed             130   0,0  0,1 410363760   5632   ??  Ss   чт11    0:01.99 /usr/libexec/timed
+_distnote          139   0,0  0,0 410266096   3424   ??  Ss   чт11    0:10.42 /usr/sbin/distnoted daemon
+root               160   0,0  0,2 410372576  17088   ??  Ss   чт11    0:07.73 /usr/libexec/lsd runAsRoot
+_usbmuxd           131   0,0  0,1 410371136   5328   ??  Ss   чт11    0:00.24 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
+anna               157   0,0  0,3 411970896  23712   ??  Ss   чт11    0:17.00 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console
+root               156   0,0  0,2 410374576  14976   ??  Ss   чт11    0:07.31 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd system
+root               155   0,0  0,1 410331360   5776   ??  Ss   чт11    0:22.13 /usr/sbin/cfprefsd daemon
+root               102   0,0  0,1 410294368   4448   ??  Ss   чт11    0:00.02 /usr/libexec/IOMFB_bics_daemon
+root                93   0,0  0,2 410380784  16224   ??  Ss   чт11    0:09.84 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+root               144   0,0  0,1 410328176   4560   ??  Ss   чт11    0:00.09 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+root               129   0,0  0,1 410365408  10576   ??  Ss   чт11    0:10.99 /System/Library/CoreServices/launchservicesd
+root                96   0,0  0,2 410354912  14448   ??  Ss   чт11    0:04.72 /usr/sbin/systemstats --daemon
+root               153   0,0  0,2 410363216  13984   ??  Ss   чт11    0:02.00 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/com.apple.cmio.registerassistantservice
+root               123   0,0  0,0 410323632   1456   ??  Ss   чт11    0:04.69 /usr/sbin/syslogd
+root               137   0,0  0,2 410369232  17792   ??  Ss   чт11    0:32.97 /usr/libexec/dasd
+root               116   0,0  0,3 410610464  26288   ??  Ss   чт11    0:44.90 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
+root               132   0,0  0,1 410364832   7504   ??  Ss   чт11    0:03.87 /usr/sbin/securityd -i
+root               112   0,0  0,0 410156144   4000   ??  Ss   чт11    0:01.37 /usr/libexec/watchdogd
+root               136   0,0  0,0 410286112   2656   ??  Ss   чт11    0:00.01 autofsd
+root               126   0,0  0,1 410326736   4672   ??  Ss   чт11    0:21.88 /usr/libexec/thermalmonitord
+root               128   0,0  0,2 410451872  18272   ??  Ss   чт11    0:11.24 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+root               152   0,0  0,1 410372032  10480   ??  Ss   чт11    0:03.01 /usr/libexec/AirPlayXPCHelper
+root               148   0,0  0,3 410426272  25168   ??  Ss   чт11    2:10.00 /usr/sbin/bluetoothd
+root               143   0,0  0,1 410199616   5104   ??  Ss   чт11    0:00.14 /System/Library/CoreServices/logind
+root               151   0,0  0,2 410363760  13376   ??  Ss   чт11    0:35.38 /usr/libexec/corebrightnessd --launchd
+root               145   0,0  0,0 410155056   1744   ??  Ss   чт11    0:00.01 /usr/sbin/KernelEventAgent
+root               118   0,0  0,1 410370400   6608   ??  Ss   чт11    0:00.88 /usr/libexec/kernelmanagerd
+root               119   0,0  0,1 410363136   4880   ??  Ss   чт11    0:01.05 /usr/libexec/diskarbitrationd
+root               127   0,0  0,2 410394416  17696   ??  Ss   чт11    0:38.18 /usr/libexec/opendirectoryd
+root               149   0,0  0,0 410330896   2880   ??  Ss   чт11    0:19.39 /usr/sbin/notifyd
+root               107   0,0  0,0 410363344   3280   ??  Ss   чт11    0:00.08 /usr/libexec/remoted
+root                99   0,0  0,1 410368208  11280   ??  Ss   чт11    0:26.17 /usr/libexec/configd
+root                92   0,0  0,1 410478272   5808   ??  Ss   чт11    0:45.51 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+root                91   0,0  0,0 410165776   4112   ??  Ss   чт11    0:01.16 /System/Library/PrivateFrameworks/Uninstall.framework/Resources/uninstalld
+root                87   0,0  0,3 410422448  25616   ??  Ss   чт11    1:26.14 /usr/libexec/logd
+root                89   0,0  0,2 410365792  16848   ??  Ss   чт11    0:09.05 /usr/libexec/UserEventAgent (System)
+root                 1   0,0  0,2 411184960  15632   ??  Ss   чт11    1:10.18 /sbin/launchd
+anna              8068   0,0  0,2 410343616  19056   ??  S     9:11     0:00.08 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+anna              8038   0,0  0,3 410344176  24672   ??  S     9:11     0:00.10 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+anna              8039   0,0  0,3 410344176  27008   ??  S     9:11     0:00.12 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+root              8010   0,0  0,1 410326416   9728   ??  Ss    9:09     0:00.08 /usr/libexec/mobileactivationd
+anna              8009   0,0  0,4 410344176  29712   ??  S     9:09     0:00.30 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+root              7859   0,0  0,2 411748256  15856   ??  Ss    9:04     0:00.25 /System/Library/PrivateFrameworks/TVIdleServices.framework/idleassetsd
+anna              7858   0,0  0,3 410348064  24240   ??  S     9:04     0:03.06 /usr/libexec/replayd
+anna              7855   0,0  0,2 410984864  19728   ??  Ss    9:04     0:00.06 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/ThemeWidgetControlViewService.xpc/Contents/MacOS/ThemeWidgetControlViewService
+anna              7830   0,0  0,2 410326752  14448   ??  S     9:02     0:00.13 /System/Library/PrivateFrameworks/CascadeSets.framework/Versions/A/XPCServices/SetStoreUpdateService.xpc/Contents/MacOS/SetStoreUpdateService
+anna              7827   0,0  0,2 410355856  15136   ??  S     9:02     0:00.68 /usr/libexec/triald
+anna              7826   0,0  0,6 410532592  46640   ??  S     9:02     0:02.51 /System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed
+anna              7825   0,0  0,1 410752624  11152   ??  S     9:02     0:00.07 /System/Library/PrivateFrameworks/ContinuousDialogManagerService.framework/assistant_cdmd
+anna              7824   0,0  0,2 410352960  14944   ??  S     9:02     0:00.19 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+anna              7823   0,0  0,4 410336720  29824   ??  S     9:02     0:02.23 /usr/libexec/siriknowledged
+anna              7822   0,0  0,4 410344128  30000   ??  S     9:02     0:01.45 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
+anna              7819   0,0  0,1 410326896   8512   ??  S     9:02     0:00.15 /System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/XPCServices/com.apple.iCloudHelper.xpc/Contents/MacOS/com.apple.iCloudHelper
